@@ -32,7 +32,6 @@ function App() {
         }
       >
       </Route>
-      {/* asdjasgdhgasduasdhasjdjasdas */}
       {/* <Route path="/:destinationId" element={<DetailDestination />}></Route> */}
     </Routes>
 
