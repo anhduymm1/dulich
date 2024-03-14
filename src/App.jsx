@@ -32,7 +32,7 @@ function App() {
         }
       >
       </Route>
-      <Route path="/:destinationId" element={<DetailDestination />}></Route>
+      {/* <Route path="/:destinationId" element={<DetailDestination />}></Route> */}
     </Routes>
 
   )
