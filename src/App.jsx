@@ -16,7 +16,7 @@ function App() {
   return (
     <Routes>
       <Route
-        path='/'
+        path='/dulich'
         element={
           <div>
             <Navbar />
